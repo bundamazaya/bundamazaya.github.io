@@ -3,7 +3,7 @@
 <head>
 <title></title>
 </head>
-<body><h1>Ini Header</h1><hr>
+<body><div><h1>Ini Header</h1><hr>
 <h2>Data Angka
 <table border="1">
 <tr></tr>
@@ -12,6 +12,6 @@
 <td>3</td>
 <td>4</td>
 </h2><hr>
-<h3>Alamat : Jl. Cengger Ayam no. 14</h3>
+<h3>Alamat : Jl. Cengger Ayam no. 14</h3></div>
 </body>
 </html>
